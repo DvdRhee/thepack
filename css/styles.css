@@ -1,0 +1,71 @@
+body {
+	background-color:#F3F3F3;
+}
+
+.instagram-logo {
+
+padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.facebook-logo {
+
+padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.welcome-title{ 
+	text-align: center;
+	font-size:xx-large;
+	color:red;
+	 }
+
+.openingtimes-title{ 
+	text-align:center;
+	font-size:xx-large;
+	color:green; }
+
+.reservation-title{ 
+	color:black;
+	text-align:center; }
+
+.hola{
+	color:green;
+}
+
+.mexicana{
+	color:red;
+}
+
+.footer-reservations{
+	color:red;
+}
+
+//Carousel Styling//
+.carousel {
+	height: 550px; 
+	width: 275 px;
+}
+.carousel-head { 
+	color:black; 
+	font-weight:bold
+}
+.carousel-text{
+	color:grey;
+	font-weight:bold
+}
+.d-block{ 
+	opacity: 0.5
+}
+
+//End of Carousel Styling//
+
+
+
+
+
+
