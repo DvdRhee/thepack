@@ -2,6 +2,10 @@ body {
 	background-color:#F3F3F3;
 }
 
+.choice-picture{
+	text-align: center;
+}
+
 .row{
 	text-align: center;
 }
@@ -69,7 +73,7 @@ padding-top: 10px;
 	font-weight:bold
 }
 .d-block{
-opacity: 0.8;
+opacity: 0.2;
 }
 
 //End of Carousel Styling//
