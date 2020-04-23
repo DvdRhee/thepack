@@ -2,6 +2,15 @@ body {
 	background-color:#F3F3F3;
 }
 
+.trips{
+	text-align: center;
+}
+
+.workshops{
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .instagram-logo {
 
 padding-top: 10px;
@@ -18,18 +27,24 @@ padding-top: 10px;
   padding-left: 10px;
 }
 
-.welcome-title{ 
+.journey-title{
+	text-align: center;
+	font-size:xx-large;
+	color:black;
+	 }
+
+.welcome-title{
 	text-align: center;
 	font-size:xx-large;
 	color:red;
 	 }
 
-.openingtimes-title{ 
+.openingtimes-title{
 	text-align:center;
 	font-size:xx-large;
 	color:green; }
 
-.reservation-title{ 
+.reservation-title{
 	color:black;
 	text-align:center; }
 
@@ -47,25 +62,19 @@ padding-top: 10px;
 
 //Carousel Styling//
 .carousel {
-	height: 550px; 
+	height: 550px;
 	width: 275 px;
 }
-.carousel-head { 
-	color:black; 
+.carousel-head {
+	color:black;
 	font-weight:bold
 }
 .carousel-text{
 	color:grey;
 	font-weight:bold
 }
-.d-block{ 
+.d-block{
 	opacity: 0.5
 }
 
 //End of Carousel Styling//
-
-
-
-
-
-
