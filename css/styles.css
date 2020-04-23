@@ -2,13 +2,8 @@ body {
 	background-color:#F3F3F3;
 }
 
-.trips{
+.row{
 	text-align: center;
-}
-
-.workshops{
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .instagram-logo {
@@ -70,11 +65,11 @@ padding-top: 10px;
 	font-weight:bold
 }
 .carousel-text{
-	color:grey;
+	color:black;
 	font-weight:bold
 }
 .d-block{
-	opacity: 0.5
+opacity: 0.8;
 }
 
 //End of Carousel Styling//
